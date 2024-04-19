@@ -286,6 +286,8 @@ footer{
     width: 180px;
 }
 @media (max-width:480px){
+    body{
+        background-color: #102C57;
     .page{
         text-align: center;
         position: relative;
