@@ -285,3 +285,49 @@ footer{
     padding-top: 30px;
     width: 180px;
 }
+@media (max-width:480px){
+    .page{
+        text-align: center;
+        position: relative;
+        left: 25%;
+    }
+    #profilephoto{
+        position: relative;
+        left: 8.5%;
+    }
+    .block2{
+        position: relative;
+        left: -60%;
+        display: block;
+        width: 50px;
+    }
+    #qualitieslogo{
+        padding-right: 0px;
+    }
+    #skillslogo{
+        padding-right: 0px;
+    }
+    #quality{
+        padding-bottom: 50px;
+        position: relative;
+    }
+   
+    .block5{
+        position: relative;
+        left: -40%;
+        
+    }
+    #projects{
+        position: relative;
+        padding-top: 30%;
+    }
+    #projectslogo{
+        padding-right: 0px;
+        position: relative;
+        left: 50px;
+    }
+    #projects>h2{
+        position: relative;
+        left: -40%;
+    }
+}
